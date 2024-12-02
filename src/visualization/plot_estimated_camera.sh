@@ -1,0 +1,1 @@
+python plot_camera_pose.py --path '../../estimation/tri_buggy.json' --figtitle 'Estimated'
